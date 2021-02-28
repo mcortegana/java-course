@@ -21,17 +21,17 @@ These can be put in four data types groups.
 * **Characters:** This group include **char** which represents symbols in a character set, like letters and numbers.
 * **Boolean:** Only the **boolean** is consider into this group, which is a especial type for *true* or *false* values.
 
-![image-20210227220431327](D:\Personal\Cursos\JAVA\01-Java Data Types.assets\image-20210227220431327.png)
+![image-20210227220431327](https://mcortegana-images-for-github.s3.amazonaws.com/java-course/01-Java+Data+Types.assets/image-20210227220431327.png)
 
 ### Integers
 
-![image-20210227220702308](D:\Personal\Cursos\JAVA\01-Java Data Types.assets\image-20210227220702308.png)
+![image-20210227220702308](https://mcortegana-images-for-github.s3.amazonaws.com/java-course/01-Java+Data+Types.assets/image-20210227220702308.png)
 
 
 
 ### Floating-Point Types
 
-![image-20210227221226215](D:\Personal\Cursos\JAVA\01-Java Data Types.assets\image-20210227221226215.png)
+![image-20210227221226215](https://mcortegana-images-for-github.s3.amazonaws.com/java-course/01-Java+Data+Types.assets/image-20210227221226215.png)
 
 
 
@@ -133,7 +133,7 @@ double num = 9_423_497.1_0_9;
 
   
 
-  ![image-20210227230232662](D:\Personal\Cursos\JAVA\01-Java Data Types.assets\image-20210227230232662.png)
+  ![image-20210227230232662](https://mcortegana-images-for-github.s3.amazonaws.com/java-course/01-Java+Data+Types.assets/image-20210227230232662.png)
 
 
 
