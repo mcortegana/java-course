@@ -17,7 +17,7 @@ There are 4 rules to name a variable.
 
 The Java keywords are the next:
 
-![image-20210327200955256](D:\Personal\Cursos\JAVA\02-Variables.assets\image-20210327200955256.png)
+![image-20210327200955256](/blob/02-Variables.assets/image-20210327200955256.png)
 
 Include **true**, **false** and **null**
 
@@ -70,7 +70,7 @@ double c = Math.sqrt(a*a+b*b);		// c is dynamically initialized
 
 ## Default Initialization Value
 
-![image-20210327193631410](D:\Personal\Cursos\JAVA\02-Variables.assets\image-20210327193631410.png)
+![image-20210327193631410](/blob/02-Variables.assets/image-20210327193631410.png)
 
 
 
@@ -185,13 +185,13 @@ A block defines a  ***scope***. Thus, each time you start a new block, you are c
 
 A ***scope*** determines what objects are visible to other parts of your program. It also determines the lifetime of those objects.
 
-![image-20210301204401011](D:\Personal\Cursos\JAVA\Variables.assets\image-20210301204401011.png)
+![image-20210301204401011](/blob/02-Variables.assets/image-20210301204401011.png)
 
 
 
 Here is another important point to remember: variables are created when their scope is entered and, destroyed when their scope is left. This means that a variable will not hold its value once it has gone out of scope. Also, a variable declared within a block will lose its value when the block is left.
 
-![image-20210301205150629](D:\Personal\Cursos\JAVA\Variables.assets\image-20210301205150629.png)
+![image-20210301205150629](/blob/02-Variables.assets/image-20210301205150629.png)
 
 
 
