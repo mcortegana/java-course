@@ -25,13 +25,13 @@ These can be put in four data types groups.
 
 ### Integers
 
-![image-20210227220702308](https://mcortegana-images-for-github.s3.amazonaws.com/java-course/01-Java+Data+Types.assets/image-20210227220702308.png)
+![image-20210227220702308](/blob/01-JavaDataTypes.assets/image-20210227220702308.png)
 
 
 
 ### Floating-Point Types
 
-![image-20210227221226215](https://mcortegana-images-for-github.s3.amazonaws.com/java-course/01-Java+Data+Types.assets/image-20210227221226215.png)
+![image-20210227221226215](/blob/01-JavaDataTypes.assets/image-20210227221226215.png)
 
 
 
@@ -133,7 +133,7 @@ double num = 9_423_497.1_0_9;
 
   
 
-  ![image-20210227230232662](https://mcortegana-images-for-github.s3.amazonaws.com/java-course/01-Java+Data+Types.assets/image-20210227230232662.png)
+  ![image-20210227230232662](/blob/01-JavaDataTypes.assets/image-20210227230232662.png)
 
 
 
